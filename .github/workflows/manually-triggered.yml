@@ -40,3 +40,4 @@ jobs:
           echo "Option: ${{ inputs.option }}"
           echo "Boolean: ${{ inputs.boolean }}"
           echo "Environment: ${{ inputs.environment }}"
+          echo "Another: ${{ inputs.another }}"
